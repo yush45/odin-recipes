@@ -1,0 +1,33 @@
+* {
+    background-color: bisque;
+}
+
+h1 {
+    font-family: 'Lucida Console', Times, serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 28px;
+}
+
+p {
+    font-family: Arial, Helvetica, Times, serif;
+    font-size: 20px;
+}
+
+ul , ol {
+    list-style: circle;
+    font-size: 25px;
+}
+
+.centerimages {
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: 300px;
+}
