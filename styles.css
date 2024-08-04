@@ -1,9 +1,10 @@
 * {
-    background-color: bisque;
+    background-color: #6F4E37;
 }
 
 h1 {
-    font-family: 'Lucida Console', Times, serif;
+    font-family: cursive, 'Lucida Console', Times, serif;
+    color: white;
     font-size: 50px;
     text-align: center;
 }
@@ -11,6 +12,20 @@ h1 {
 h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 28px;
+}
+
+.container{
+    width: 500px;
+    height: auto;
+    background-color: burlywood;
+    color: black;
+    margin: 20px auto;
+    padding: 30px;
+}
+
+.container * {
+    background-color: burlywood;
+    color: black;
 }
 
 p {
